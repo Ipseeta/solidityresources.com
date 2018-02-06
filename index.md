@@ -4,6 +4,7 @@ When you think of Ethereum, you probably come across the term smart-contracts. T
 
 ❤️ represents personal favourite. 🙂
 
+If you want to add more! **[Send a PR]**(https://github.com/Ipseeta/solidityresources.com)
 
 ## Wallets
 You want to start by getting yourself set up with a wallet. You have a number of choices:
