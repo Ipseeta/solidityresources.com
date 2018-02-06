@@ -1,12 +1,10 @@
 # Solidity Resources
 
 When you think of Ethereum, you probably come across the term smart-contracts. The high-level language to implement smart contracts is Solidity. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
----
 
-❤️ represents personal favourite.
+==❤️ represents personal favourite.==
 
 💡 If you want to add more! [Send a PR](https://github.com/Ipseeta/solidityresources.com)
----
 
 ## Wallets
 You want to start by getting yourself set up with a wallet. You have a number of choices:
