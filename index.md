@@ -1,39 +1,38 @@
-# Solidity
+# Solidity Resources
 
 When you think of Ethereum, you probably come across the term smart-contracts. The high-level language to implement smart contracts is Solidity. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
 
 ❤️ represents personal favourite. 🙂
 
-## Getting Started
 
-### Wallets
+## Wallets
 You want to start by getting yourself set up with a wallet. You have a number of choices:
 
-#### Desktop wallets:-
+### Desktop wallets:-
 
 - [Mist Wallet](https://github.com/ethereum/mist/releases) an official Ethereum wallet
 - ❤️ Get [MetaMask](https://metamask.io/) extension for your browser
 - [Exodus](https://www.exodus.io/) is the world’s first multi-cryptocurrency desktop wallet. It is free to use and has an attractive UI.
 
-#### Hardware wallets:-
+### Hardware wallets:-
 
 - [Ledger Nano S](https://www.ledgerwallet.com/) is a Bitcoin, Ethereum and Altcoins hardware wallet, based on robust safety features for storing cryptographic assets and securing digital payments. It connects to any computer (USB) and embeds a secure OLED display to double-check and confirm each transaction with a single tap on its side buttons.
 - [Trezor](https://www.amazon.com/TREZOR-The-Bitcoin-Safe-Black/dp/B00R6MKDDE) provides you with a safe payment option and also provides you with the most trusted and secure way to store your bitcoins.
 - [KeepKey](https://www.amazon.com/gp/product/B0143M2A5S/) is the costliest Ethereum hardware wallet available ($129). It keeps your ETH in a secure offline environment and offers the same features as the Ledger Nano S or Trezor.
 
-#### Mobile wallets:-
+### Mobile wallets:-
 
 - [Bitcoin Wallet](https://play.google.com/store/apps/details?id=de.schildbach.wallet) is the first mobile Bitcoin app, and arguably also the most secure.
 - [Breadwallet](https://breadapp.com/) - Intuitive and secure, breadwallet gives you complete control over your bitcoin.
 - [Jaxx](https://play.google.com/store/apps/details?id=com.kryptokit.jaxx) an independent Bitcoin wallet that’s available for most devices&nbsp;(Windows, Apple and Linux desktop, Android and iOS mobile and tablet, and Google Chrome and Firefox extensions.)
 
-#### Web wallets:-
+### Web wallets:-
 
 - [Coinbase](https://www.coinbase.com/home) is a secure online platform for buying, selling, transferring, and storing digital currency.
 - ❤️ [MyEtherWallet](https://www.myetherwallet.com/), where you control Ethereum’s private key on your machine.
 - [GreenAddress](https://greenaddress.it/en/) is a bitcoin wallet with a web interface that is also available for desktop, iOS, and Android.
 
-### Books
+## Books
 
 1. [Introducing Ethereum and Solidity](https://www.apress.com/in/book/9781484225349) by Dannen, Chris focuses on foundations of Cryptocurrency and Blockchain programming for beginners.
 2. ❤️ [Mastering Smart Contracts](https://leanpub.com/smart-contracts) by Sandeep Panda, will teach you how to write well tested and production ready Smart Contracts for Ethereum blockchain in just a week by following "Learning by building" approach.
@@ -42,7 +41,7 @@ You want to start by getting yourself set up with a wallet. You have a number of
 5. [Blockchain: Blockchain, Smart Contracts, Investing in Ethereum, FinTech](https://www.amazon.com/gp/product/1539692779/)- You will get tips on how you can make your Smart Contacts easy to understand and user-friendly.
 6. [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology-ebook/dp/B01EIGP8HG) by William Mougayar (Author), Vitalik Buterin (Foreword) - This is an invitation for technologists to better understand the business potential of the blockchain, and for business minded people to grasp the many facets of blockchain technology. This book teaches you how to think about the blockchain.
 
-### Online Courses/Tutorials
+## Online Courses/Tutorials
 Get Ether, write smart contracts, build DApps, and dive into Ethereum
 
 1. ❤️ [Create Ethereum based ERC20 token in 20 minutes](https://hashnode.com/post/how-to-build-your-own-ethereum-based-erc20-token-and-launch-an-ico-in-next-20-minutes-cjbcpwzec01c93awtbij90uzn) - it will give you a basic idea how to get started.
@@ -68,7 +67,7 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 21. ❤️ Write [smart contracts](https://howtotoken.com/ico/how-to-write-a-smart-contract-for-your-ico-an-ultimate-guide/) with minimal technical knowledge.
 22. Introducing Ethereum and Solidity - [Home](https://eth.guide/) by Chris Dannen.
 
-### Discussion Forums/Chats
+## Discussion Forums/Chats
 
 1. Ask questions on Ethereum at [StackExchange](https://ethereum.stackexchange.com/).
 2. ❤️ Share, discuss, read about all the blockchain communities at [Hashnode](https://hashnode.com/communities) or if looking particularly for [solidity](https://hashnode.com/n/solidity).
@@ -80,12 +79,12 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 8. Telegram [channel](https://telegram.me/ethclassic) for Ethereum discussion
 9. [All Crypto Talk](https://allcryptotalk.com/index.php?/forum/118-ethereum-discussion/) - Talk about just about anything Ethereum related in here.
 
-### Found some useful videos
+## Found some useful videos
 
 1. [Learning Solidity](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA) from channel What's Solidity!
 2. [Intro to Smart Contracts](https://www.youtube.com/watch?v=aV8C77xAaQA) by RockPrep
 
-### Some whitepapers/bluepapers
+## Some whitepapers/bluepapers
 
 1. [Kin](https://www.kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf): a decentralized ecosystem of digital services for daily life.
 2. [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)
