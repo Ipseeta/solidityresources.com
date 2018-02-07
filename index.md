@@ -1,10 +1,10 @@
-# Solidity Resources
+# Solidity & Smart-Contract Resources
 
 When you think of Ethereum, you probably come across the term smart-contracts. The high-level language to implement smart contracts is Solidity. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
 
-==❤️ represents personal favourite.==
+❤️ represents personal favourite.
 
-💡 If you want to add more! [Send a PR](https://github.com/Ipseeta/solidityresources.com)
+💡 If you want to add more! [Send a PR](https://github.com/Ipseeta/solidityresources.com).
 
 ## Wallets
 You want to start by getting yourself set up with a wallet. You have a number of choices:
@@ -67,6 +67,7 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 20. How to write simple [Ethereum smart contracts](https://techburst.io/solidity-101-intro-to-ethereum-smart-contracts-and-solidity-82e9889b1736) using the Remix — Solidity IDE.
 21. ❤️ Write [smart contracts](https://howtotoken.com/ico/how-to-write-a-smart-contract-for-your-ico-an-ultimate-guide/) with minimal technical knowledge.
 22. Introducing Ethereum and Solidity - [Home](https://eth.guide/) by Chris Dannen.
+23. Smart Contracts and Decentralized Apps [101](https://coursetro.com/posts/code/98/Smart-Contracts-and-Decentralized-Apps-101) by Gary Simon.
 
 ## Discussion Forums/Chats
 
@@ -82,8 +83,12 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 
 ## Found some useful videos
 
-1. [Learning Solidity](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA) from channel What's Solidity!
+1. ❤️ [Learning Solidity](https://www.youtube.com/channel/UCaWes1eWQ9TbzA695gl_PtA) from channel What's Solidity!
 2. [Intro to Smart Contracts](https://www.youtube.com/watch?v=aV8C77xAaQA) by RockPrep
+3. [Solidity for Beginners](https://www.youtube.com/watch?v=Yu4n6qaSr_w) - an introductory video for learning solidity by creating smart contracts on ethereum.
+4. [Basic DApps building](https://www.youtube.com/watch?v=9_coM_g7Dbg)
+5. [Introduction to Ethereum Smart Contract development with Solidity](https://www.youtube.com/watch?v=8jI1TuEaTro) by Decypher Media
+6. [Smart Contracts and DApps 101](https://www.youtube.com/watch?v=a9_HPYlhCug) by Gary Simon
 
 ## Some whitepapers/bluepapers
 
@@ -92,6 +97,19 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 3. [EtherBlue](https://www.etherblue.org/whitepaper) - A proposal for securing cryptocurrency and Ethereum Smart Contracts bringing confidence to cryptocurrency written by Team Blue.
 4. [Blocktix](https://blocktix.io/public/doc/blocktix-wp-draft.pdf): Decentralized Event Hosting and Ticket Distribution Network.
 
+## Few DApps Live
+
+1. [Fireblock](https://fireblock.io/) - Integrity and ownership for distributed files
+2. [BillionTix](https://www.billiontix.com/) - Giving away over 4.5 Million Ether
+3. [CryptoTask](http://www.cryptotask.org/) - Scalable freelancing market with built in dispute mechanism
+4. [Etherization](http://www.bspend.com/etherization) - Strategy Game
+5. [Life Lottery](https://lifelottery.github.io/) - 100% fair lottery
+6. [Acebusters](http://www.acebusters.com/) - Acebusters is a decentralized poker platform made by obsessive poker and cryptography fans
+7. [Gnosis](http://gnosis.pm/) - Prediction market platform
+8. [CryptoKitties](http://www.cryptokitties.co/) - Collectible non-fungible tokens that are breedable and will have over 4 billion variations.
+9. [Lottereum](https://lotthereum.github.io/) - Open source lottery
+10. [Leeroy](https://leeroy.io/) - Earn for content creation
+11. [xcontract](https://xcontract.herokuapp.com/) - A web app user interface to run live smart contracts
 
 
-Stay Tuned for more...
+<p>Made with ❤️ by Ipseeta &copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved. </p>
