@@ -115,5 +115,5 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 
 
 
-<p>Made with ❤️ by [Ipseeta](mailto:ipseeta.pkar@gmail.com) &copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved.
+<p>Made with ❤️ by <a href="mailto:ipseeta.pkar@gmail.com">Ipseeta</a> &copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved.
 </p>
