@@ -1,10 +1,10 @@
 # Solidity & Smart-Contract Resources
 
-When you think of Ethereum, you probably come across the term smart-contracts. The high-level language to implement smart contracts is Solidity. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
-
-❤️ represents personal favourite.
+A detailed list of resources to read/practise solidity and smart contracts.
 
 💡 If you want to add more! [Send a PR](https://github.com/Ipseeta/solidityresources.com).
+
+❤️ represents personal favourite
 
 ## Wallets
 You want to start by getting yourself set up with a wallet. You have a number of choices:
@@ -23,9 +23,7 @@ You want to start by getting yourself set up with a wallet. You have a number of
 
 ### Mobile wallets:-
 
-- [Bitcoin Wallet](https://play.google.com/store/apps/details?id=de.schildbach.wallet) is the first mobile Bitcoin app, and arguably also the most secure.
-- [Breadwallet](https://breadapp.com/) - Intuitive and secure, breadwallet gives you complete control over your bitcoin.
-- [Jaxx](https://play.google.com/store/apps/details?id=com.kryptokit.jaxx) an independent Bitcoin wallet that’s available for most devices&nbsp;(Windows, Apple and Linux desktop, Android and iOS mobile and tablet, and Google Chrome and Firefox extensions.)
+- [Jaxx](https://play.google.com/store/apps/details?id=com.kryptokit.jaxx) is a multi-asset wallet created by the Canada-based company, Decentral. It supports 13 cryptocurrencies (including ETH) and has an elegant design with robust security features.
 
 ### Web wallets:-
 
@@ -37,10 +35,9 @@ You want to start by getting yourself set up with a wallet. You have a number of
 
 1. [Introducing Ethereum and Solidity](https://www.apress.com/in/book/9781484225349) by Dannen, Chris focuses on foundations of Cryptocurrency and Blockchain programming for beginners.
 2. ❤️ [Mastering Smart Contracts](https://leanpub.com/smart-contracts) by Sandeep Panda, will teach you how to write well tested and production ready Smart Contracts for Ethereum blockchain in just a week by following "Learning by building" approach.
-3. If you are interested in blockchain in more depth, [Mastering Bitcoin](https://www.goodreads.com/book/show/21820378-mastering-bitcoin) by Andreas M. Antonopoulos is a good choice.
-4. Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich. The book aims to help you get your head around blockchains in general and around Ethereum specifically.
-5. [Blockchain: Blockchain, Smart Contracts, Investing in Ethereum, FinTech](https://www.amazon.com/gp/product/1539692779/)- You will get tips on how you can make your Smart Contacts easy to understand and user-friendly.
-6. [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology-ebook/dp/B01EIGP8HG) by William Mougayar (Author), Vitalik Buterin (Foreword) - This is an invitation for technologists to better understand the business potential of the blockchain, and for business minded people to grasp the many facets of blockchain technology. This book teaches you how to think about the blockchain.
+3. Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations by Henning Diedrich. The book aims to help you get your head around blockchains in general and around Ethereum specifically.
+4. [Blockchain: Blockchain, Smart Contracts, Investing in Ethereum, FinTech](https://www.amazon.com/gp/product/1539692779/)- You will get tips on how you can make your Smart Contacts easy to understand and user-friendly.
+5. [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology-ebook/dp/B01EIGP8HG) by William Mougayar (Author), Vitalik Buterin (Foreword) - This is an invitation for technologists to better understand the business potential of the blockchain, and for business minded people to grasp the many facets of blockchain technology. This book teaches you how to think about the blockchain.
 
 ## Online Courses/Tutorials
 Get Ether, write smart contracts, build DApps, and dive into Ethereum
@@ -72,7 +69,7 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 ## Discussion Forums/Chats
 
 1. Ask questions on Ethereum at [StackExchange](https://ethereum.stackexchange.com/).
-2. ❤️ Share, discuss, read about all the blockchain communities at [Hashnode](https://hashnode.com/communities) or if looking particularly for [solidity](https://hashnode.com/n/solidity).
+2. Share, discuss, read about all the blockchain communities at [Hashnode](https://hashnode.com/communities) or if looking particularly for [solidity](https://hashnode.com/n/solidity).
 3. [Reddit](https://www.reddit.com/r/ethereum/) channel for ethereum.
 4. Live chat with Ethereum developers at [Gitter](https://gitter.im/ethereum/home).
 5. [Ethereum.org](https://forum.ethereum.org/categories/solidity)'s forum has a lot of discussions!
@@ -87,15 +84,18 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 2. [Intro to Smart Contracts](https://www.youtube.com/watch?v=aV8C77xAaQA) by RockPrep
 3. [Solidity for Beginners](https://www.youtube.com/watch?v=Yu4n6qaSr_w) - an introductory video for learning solidity by creating smart contracts on ethereum.
 4. [Basic DApps building](https://www.youtube.com/watch?v=9_coM_g7Dbg)
-5. [Introduction to Ethereum Smart Contract development with Solidity](https://www.youtube.com/watch?v=8jI1TuEaTro) by Decypher Media
+5. ❤️ [Introduction to Ethereum Smart Contract development with Solidity](https://www.youtube.com/watch?v=8jI1TuEaTro) by Decypher Media
 6. [Smart Contracts and DApps 101](https://www.youtube.com/watch?v=a9_HPYlhCug) by Gary Simon
 
 ## Some whitepapers/bluepapers
 
-1. [Kin](https://www.kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf): a decentralized ecosystem of digital services for daily life.
+1. [Kin](https://www.kinecosystem.org/static/files/Kin_Whitepaper_V1_English.pdf) - a decentralized ecosystem of digital services for daily life.
 2. [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)
 3. [EtherBlue](https://www.etherblue.org/whitepaper) - A proposal for securing cryptocurrency and Ethereum Smart Contracts bringing confidence to cryptocurrency written by Team Blue.
-4. [Blocktix](https://blocktix.io/public/doc/blocktix-wp-draft.pdf): Decentralized Event Hosting and Ticket Distribution Network.
+4. [Blocktix](https://blocktix.io/public/doc/blocktix-wp-draft.pdf) - Decentralized Event Hosting and Ticket Distribution Network.
+5. [Bancor](https://about.bancor.network/static/bancor_protocol_whitepaper_en.pdf) - The Bancor Protocol enables automatic price determination and an autonomous liquidity mechanism for tokens on smart contract blockchains.
+6. [Tezos](https://www.tezos.com/static/papers/Tezos_Overview.pdf) - The self-amending cryptographic ledger
+7. [FileCoin](https://filecoin.io/filecoin.pdf) - A Decentralized Storage Network
 
 ## Few DApps Live
 
@@ -108,8 +108,12 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 7. [Gnosis](http://gnosis.pm/) - Prediction market platform
 8. [CryptoKitties](http://www.cryptokitties.co/) - Collectible non-fungible tokens that are breedable and will have over 4 billion variations.
 9. [Lottereum](https://lotthereum.github.io/) - Open source lottery
-10. [Leeroy](https://leeroy.io/) - Earn for content creation
+10. ❤️ [Leeroy](https://leeroy.io/) - Earn for content creation
 11. [xcontract](https://xcontract.herokuapp.com/) - A web app user interface to run live smart contracts
 
 
-<p>Made with ❤️ by Ipseeta &copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved. </p>
+
+
+
+<p>Made with ❤️ by [Ipseeta](mailto:ipseeta.pkar@gmail.com) &copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved.
+</p>
