@@ -1,4 +1,4 @@
-# solidityresources.com
+# [solidityresources.com](http://solidityresources.com)
 
 A detailed list of resources to read/practise solidity and smart contracts.
 
