@@ -112,7 +112,12 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 11. [xcontract](https://xcontract.herokuapp.com/) - A web app user interface to run live smart contracts
 
 
+## Solidity Development Tasks/Bounties 
 
+1. [Snowflake dApp Store Development Task](https://github.com/HydroBlockchain/hcdp/issues/228) - Create a POC dApp for Hydro Snowflake dApp Store
+2. [Probabilities, Predictions & Odds](https://github.com/HydroBlockchain/hcdp/issues/263) - Ethereum smart contract bounty for Project Hydro
+3. [Randomized Lottery Dynamics](https://github.com/HydroBlockchain/hcdp/issues/262) - Ethereum smart contract bounty for Solidity Developers
+4. [Other Solidity Development Tasks](https://github.com/HydroBlockchain/hcdp) - Ethereum smart contract development tasks for solidity developers
 
 
 <p>Made with ❤️ by <a href="mailto:ipseeta.pkar@gmail.com">Ipseeta</a> &copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved.
