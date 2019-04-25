@@ -39,6 +39,11 @@ You want to start by getting yourself set up with a wallet. You have a number of
 4. [Blockchain: Blockchain, Smart Contracts, Investing in Ethereum, FinTech](https://www.amazon.com/gp/product/1539692779/)- You will get tips on how you can make your Smart Contacts easy to understand and user-friendly.
 5. [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology](https://www.amazon.com/Business-Blockchain-Practice-Application-Technology-ebook/dp/B01EIGP8HG) by William Mougayar (Author), Vitalik Buterin (Foreword) - This is an invitation for technologists to better understand the business potential of the blockchain, and for business minded people to grasp the many facets of blockchain technology. This book teaches you how to think about the blockchain.
 
+## Libraries and Framework
+Your smart contract pair programmer
+1. [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - It provides collections of resuable smart contract written in solidity which makes your smart contracts development easier.
+
+
 ## Online Courses/Tutorials
 Get Ether, write smart contracts, build DApps, and dive into Ethereum
 
