@@ -116,9 +116,9 @@ Get Ether, write smart contracts, build DApps, and dive into Ethereum
 10. ❤️ [Leeroy](https://leeroy.io/) - Earn for content creation
 11. [xcontract](https://xcontract.herokuapp.com/) - A web app user interface to run live smart contracts
 
+## Cheat Sheets
 
-
-
+1. [CheatSheets](http://www.cheat-sheets.org/)  - A good content of collection of small precise cheatsheets.
 
 <p>Made with ❤️ by <a href="mailto:ipseeta.pkar@gmail.com">Ipseeta</a> &copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved.
 </p>
